@@ -27,7 +27,6 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
 <hr>
 
