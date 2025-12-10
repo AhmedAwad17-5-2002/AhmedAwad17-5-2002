@@ -73,9 +73,6 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
   </picture>
 </div>
 
-<!-- GitHub readme stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedAwad17-5-2002&show_icons=true&theme=dracula" alt="Ahmed's GitHub stats" />
-
 
 ---
 
