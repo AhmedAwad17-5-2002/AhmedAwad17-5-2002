@@ -7,7 +7,18 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
 </p>
 
 <hr>
+---
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 <pre>
 📚 Background in Digital Design, Computer Architecture, and RTL development.
 📝 Interests: RTL Design, Digital Verification, DSP Accelerators, System-Level Modeling.
@@ -31,18 +42,6 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
 - 🎨 **Documentation & Diagrams**  
   Markdown, draw.io, WaveDrom, Lucidchart
 
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
