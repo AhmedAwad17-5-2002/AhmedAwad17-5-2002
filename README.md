@@ -7,6 +7,14 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
 </p>
 
 <hr>
+<pre>
+📚 Background in Digital Design, Computer Architecture, and RTL development.
+📝 Interests: RTL Design, Digital Verification, DSP Accelerators, System-Level Modeling.
+🌟 Languages: SystemVerilog, Verilog, C, C++, Python, MATLAB.
+🤔 Open to internships and junior/full-time job opportunities.
+</pre>
+
+
 ---
 
 ## 📫 Connect with Me
@@ -19,12 +27,7 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-<pre>
-📚 Background in Digital Design, Computer Architecture, and RTL development.
-📝 Interests: RTL Design, Digital Verification, DSP Accelerators, System-Level Modeling.
-🌟 Languages: SystemVerilog, Verilog, C, C++, Python, MATLAB.
-🤔 Open to internships and junior/full-time job opportunities.
-</pre>
+---
 
 <hr>
 
