@@ -20,10 +20,10 @@ Aspiring <b>Digital IC Design & Verification Engineer</b>
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ahmed.awad1752002L@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/ahmed-awad-a11874226/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
